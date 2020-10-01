@@ -1,3 +1,3 @@
 # Python
 
-Basic Algorithms of Computer Science in Python.
+Basic Algorithms for searching and sorting in the list using Python.
