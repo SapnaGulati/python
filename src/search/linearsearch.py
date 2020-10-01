@@ -8,5 +8,9 @@ def linear_search(list, search_element):
             print("Element found at position: ", (i+1))
 
 #Test with hardcoded data.
-x = [2,4,6,8,2]
+x = []
+n = int(input("Enter the size of the list: "))
+for i  in range(0, n):
+    y = int(input(f"Enter the {i}th element of the list: "))
+    x.add(y)
 linear_search(x, 2)
